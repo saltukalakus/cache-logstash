@@ -1,4 +1,4 @@
 cache-logstash
 ==============
 
-Logstash config and patches for Cache System.
+Logstash .conf files for local tests.

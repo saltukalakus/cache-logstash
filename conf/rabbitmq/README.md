@@ -10,5 +10,3 @@ Elasticsearch gets the logs from rabbit-mq queues.
 Configurations:
 ==============
 Rabbit-mq is configured in Fanout (publish-subscribe) model.
-
-
