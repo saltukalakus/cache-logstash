@@ -1,4 +1,4 @@
-cache-logstash
+Logstash - Elasticsearch
 ==============
 A test for logstash - elasticsearch.
 
