@@ -17,7 +17,7 @@ A test for logstash - rabbitmq - elasticsearch.
 
 <b>Test setup:</b><br>
 Logstash forwards Nginx and ATS stat logs to Rabbit-mq.
-Logstash gets the logs from Rabbir-mq queue and forwards to Elasticsearch.
+Logstash gets the logs from Rabbit-mq queue and forwards to Elasticsearch.
 
 <b>Configurations:</b><br>
 Rabbit-mq is configured in fanout (publish-subscribe) mode.
